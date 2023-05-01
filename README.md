@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **pandeyash27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1olxIqauLBIC4TWyDHWx5vMX5JWSuJ-TM/view?usp=share_link]([https://drive.google.com/file/d/1olxIqauLBIC4TWyDHWx5vMX5JWSuJ-TM/view?usp=share_link](https://drive.google.com/file/d/1WhwYlvQtVb4-YU8vcXJXTZg06uHunFDe/view?usp=share_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1olxIqauLBIC4TWyDHWx5vMX5JWSuJ-TM/view?usp=share_link](https://drive.google.com/file/d/1olxIqauLBIC4TWyDHWx5vMX5JWSuJ-TM/view?usp=share_link](https://drive.google.com/file/d/1WhwYlvQtVb4-YU8vcXJXTZg06uHunFDe/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
