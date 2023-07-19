@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Movie-finder](https://github.com/coderashwini821115/Movie-finder)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node JS**
 
 - 👯 I’m currently solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
-- 🤝 I’m looking for help with [Netflix Landing Page](https://github.com/coderashwini821115/Netflix-Landing-Page)
+- 🤝 I’m looking for help with [Chat-App](https://github.com/coderashwini821115/chat-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/coderashwini821115?tab=repositories](https://github.com/coderashwini821115?tab=repositories)
 
